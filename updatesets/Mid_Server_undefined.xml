@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="07/04/2026 11:48:02 AM">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name></application_name>
+<application_scope>global</application_scope>
+<application_version></application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description></description>
+<inserted/>
+<name>Mid Server</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>e731e39283800b107e911530ceaad38a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>07/04/2026 11:48:02 AM</sys_created_on>
+<sys_id>0079f4a683004b107e911530ceaad3f3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>07/04/2026 11:48:02 AM</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments></comments>
+<name>ldap_server_url_3ebbbafa83f3f2107e911530ceaad33c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ldap_server_url"><ldap_server_url action="INSERT_OR_UPDATE"><active>true</active><operational_status>true</operational_status><order>100</order><server display_value="LDAP Integration">c3b7f67683f3f2107e911530ceaad315</server><sys_class_name>ldap_server_url</sys_class_name><sys_created_by>Snow.0405</sys_created_by><sys_created_on>2026-03-27 05:40:05</sys_created_on><sys_id>3ebbbafa83f3f2107e911530ceaad33c</sys_id><sys_mod_count>418</sys_mod_count><sys_name>ldap://ldap.forumsys.com</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ldap_server_url_3ebbbafa83f3f2107e911530ceaad33c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-07 10:34:51</sys_updated_on><url>ldap://ldap.forumsys.com</url></ldap_server_url></record_update>]]></payload>
+<payload_hash>-1314549654</payload_hash>
+<remote_update_set display_value="Mid Server">0079f4a683004b107e911530ceaad3f3</remote_update_set>
+<replace_on_upgrade>0</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-04-07 05:49:51</sys_created_on>
+<sys_id>8d77a71e83c00b107e911530ceaad374</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_recorded_at>19d6782621b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-04-07 10:34:51</sys_updated_on>
+<table></table>
+<target_name>ldap://ldap.forumsys.com</target_name>
+<type>LDAP Server URL</type>
+<update_domain>global</update_domain>
+<update_guid>3ba8ac2e404c0b109ba546ab274c1bc3</update_guid>
+<update_guid_history>3ba8ac2e404c0b109ba546ab274c1bc3:-1314549654,29f220ee9e0c0b10c22338c2e9aaf018:1309645965,e61c94aee3c80b10ccd676b64ffa4081:-1314549654,a6a818a692c80b109924f4771efe204f:1309645965,991458eae6880b10c9da6206549e4549:-1314549654,47c1186628880b10cb65b9a153f38422:1309645965,4414cce204080b109e767f32c0753023:-1314549654,eca0002ea9c40b10c6e17e3ac4e68a9c:1309645965,0dc93f9af8840b1081276d3f95488629:-1314549654,5156779273840b10229f76f7eda39fa9:1309645965,c577a71ee5c00b102d8f6b47561d2374:-1314549654,aa25e3965cc00b10c92ffe88e7916f9a:1309645965,726f0bd663ccc7107b9adfbb0d1a9ae6:-1314549654,642d879218ccc710b70f24cf4e62e609:1309645965,e9d28f9af44cc7101bc1d9b6717ecc11:-1314549654,a96f72d2434cc710f786442feffb7d98:1309645965,4688fad24b0cc710494ca85dee549562:-1314549654,6a15fada59c8c7109415e91440d11411:1309645965,3d1d2a5a8988c710d4396d60309aa51c:-1314549654,dfca26164388c71053b23b4a2f21c7ff:1309645965,b3e36a167448c7108cef00cf3ac6077a:-1314549654,4080ae1e7808c71081f2d74554cc131c:1309645965,501d92566108c7105b737b16c1ff17ab:-1314549654,49c2565ea984c710940fdbd5fc99f86b:1309645965,143eca924c84c7109213ccd9d5e01145:-1314549654,82788a56d044c71035dfc5710abb9942:1309645965,1db2a59e1dcc8710270e58ba5434579a:-1314549654,3d6819929a8c871064f9a5f50389732c:1309645965,916091daa40c8710a43c692aadd49d71:-1314549654,07aa0d5e41c88710136ef8e86708a607:1309645965,163ff492a4888710b0695b049a952674:-1314549654,5c8934564248871086fb6a99f07f8c9f:1309645965,e416f45e3e0887101b0a0b82efdbc794:-1314549654,78a23c560008871092fed01d350cbd95:1309645965,2558e09e9e8487108c3d3937a13cb089:-1314549654,0ae42896a084871071ecacc11bb8b975:1309645965,0d50ecda40448710445dd05636c51f03:-1314549654,b29a50de76048710b8488a1846927d9a:1309645965,ef4058d684c08710539530e1b78f0f31:-1314549654,ccec4cde2f8087101bcafa8113019f07:1309645965,bbfdff4e670087107d062e65fd1d33e5:-1314549654,c5bb7f0ab8008710aaa7184ff0de1ca9:1309645965,bc40fb8ed28c4710149d5b0f6b03d523:-1314549654,e68a2f42ee8c471086c911281da195ae:1309645965,3e172f4a494c4710f3e36a30d11c95d1:-1314549654,df30670aae0c471021e60b0454edee45:1309645965,daab1f4e6cc8471006c768fb3689ad5b:-1314549654,7f595b0a05c8471057d7839771ca5161:1309645965,28821b0ae88847103a4424ef4847b053:-1314549654,7c1f0f0219884710c564e9ed57e7fd86:1309645965,f207b6c6e2844710b931b8aa011c8caa:-1314549654,be93bacef74447102352b85c5ce2bbf4:1309645965,88e5a20271044710b27fc3da855c2071:-1314549654,1072a20a1dc04710ab347da74f68c22f:1309645965,eb6a1e466880471012617b290fe1b343:-1314549654,412892ce99404710870b782f3bbb46dc:1309645965,2fa59c0619ccc310867cafbbfafc8c39:-1314549654,3f32904ed88cc310d6ef322db35089a0:1309645965,686b844ebd4cc310a4257006cacd02d3:-1314549654,6cf7c846504cc3102f8ccc18ab76cb04:1309645965,2b3c7cf9e4cc4310a48a64ed7c258e53:-1314549654,09f9f8b565cc43107f0e4abc1a46fb22:1309645965,3a552039bf0c4310370e63579f3ec5b9:-1314549654,8fe1ecfdb4c84310c1662fedf32fcbb2:1309645965,3f458cbdcbc44310f61b7d43669fb8ba:-1314549654,a903c4793dc44310ed207f6d35046863:1309645965,6e45b3a9044443109e1daf82577d8b49:-1314549654,53faeba14e044310a19cc0c0f166f9b7:1309645965,038fdb291e80431017502316fa99ec25:-1314549654,e44d1be19880431057eebbd1d50723c3:1309645965,506e4f61e70043103186d5270889af47:-1314549654,3d1c4b2d2ecc0310048622bf63f84973:1309645965,eec14365318c0310891b6c492c4a7a73:-1314549654,725e766d824c0310e04377585f38df78:1309645965,fdc972e1544c03102bb6b2cfdd1df547:-1314549654,9377fa6d040c03101eecf3aa9979ee27:1309645965,7390f62de3c80310bf411ceaaf002458:-1314549654,1cc9226d3e880310f06be391ff08e9d2:1309645965,f9b9822545840310655e7755bfdf767b:-1314549654,db6702eda64403103ca7fe85ea00c0a8:1309645965,23f346e5a7440310a1eaa360e48aeb9e:-1314549654,bb804aedeb0403100c4ae8186e92985f:1309645965,496fa1294c80031091b5b341c9ce2130:-1314549654,ca88e9298a400310364f0c5927efe4e0:1309645965,6eba6c2dfac80f104dbba7ab8a23081e:-1314549654,b247a8e10dc80f10bb46ef85249004be:1309645965,5f811c6195080f104efd864f799256b0:-1314549654,c5db0c25fec40f107e30800f4547ea2e:1309645965,b368006d6e840f10f5059915ade9f07f:-1314549654,25f440650f840f10f86e68476fbd59e8:1309645965,f1818c2def440f1040a53a3663acb493:-1314549654,161eb315aa440f10ae87ed26ef6dd454:1309645965,463f279184c00f105b08103d09ba2b6d:-1314549654,1bec635d42800f10529579a2402800c9:1309645965,ab9ad3d170000f103bff0d663aa29d55:-1314549654,9958139dd3cccb1093b4204048c2bd93:1309645965,6e278795ad4ccb10d26abc2e3a3f3fe0:-1314549654,b6b38b9d5d0ccb1021f9b2ff67beffd2:1309645965,2a48721571c8cb10ca30d2687ac14db4:-1314549654,9c92b2d55d88cb108ad9ee90a201a75c:1309645965,978aea15a448cb10a8a2f79724042f35:-1314549654,81486adda208cb10db7a1da54b5cc22c:1309645965,7ea3d2dd5044cb107acba02ca2385e65:-1314549654,57cccadd0e04cb100c7785d181dcedf0:1309645965,3fe58edd38c0cb1029617db2c79f99ce:-1314549654,8c828219f8c0cb1006459e8f255ead17:1309645965,1c1f3511eec0cb102f1da5e88931d41b:-1314549654,28ab3919cb80cb10978d0e49f493d4c4:1309645965,ddc4b919f140cb103af8dfe91ae82e86:-1314549654,9551bd119640cb10c112e16173ed1bdf:1309645965,7059a19d61cc8b109116906edb824472:-1314549654,1607211910cc8b10ec3f12be8cba981b:1309645965,c572e95d208c8b10e37114a271d2d579:-1314549654,72bc1911fa8c8b102a741b8d1e2e94b3:1309645965,af49d919b34c8b10760b8c569072528e:-1314549654,27d5dd11e84c8b10feb3d65edaaf7c65:1309645965,fadd899db3c88b1017c124934dbc3a8a:-1314549654,d49b095994c88b10c49a4be678661b2e:1309645965,6428c9511ec88b10c772507cee6b4bbe:-1314549654,f0b40199f9888b1036c6e1b0d79b042e:1309645965,0020c5ddc4488b101518378b4eda7f05:-1314549654,faace0d1a6c48b10c0027dc84785deb2:1309645965,cf39e4d9a5848b107172ceb0104d2fb0:-1314549654,e7522cd978448b103d2bde58a471c148:1309645965,b300d09122c08b102fc1755d5584e938:-1314549654,ad5a00551b808b10fc15246ed57a5beb:1309645965,322977c95bcc4b106ca195e68cd3426d:-1314549654,bbde6fc1628c4b10bddd50f03ed0321a:1309645965,7b6be3c9184c4b106af01ec385ef828f:-1314549654,d408e7c11d4c4b103a5b215f8518b6bb:1309645965,b4212fc1600c4b10c597a3cd6d63e32d:-1314549654,0dbd938981c84b10d6e6881addb7f625:1309645965,914a9781e1c84b106b0b9a19e82538a5:-1314549654,f5d6db893b884b10c8c655f7e7935611:1309645965,a04213016a884b108039d99a0319c470:-1314549654,c7a5cf812b084b106d8fe7adb4948e33:1309645965,9f3203c9a9c44b101e9b68c20924afb4:-1314549654,b35bf6c9be844b1018fe7f3b093d05c4:1309645965,47c67e0153844b10e51a566ab0aaddb8:-1314549654,5c84f68967444b105759b53bbce1d16d:1309645965,c5ad2a491a044b101efbca0949a44086:-1314549654,d53a2a4114044b103fffae21e467f082:1309645965,d8a562c53cc04b10f86f0971d79ba593:-1314549654,a1536e41bdc04b105e45abe25853d8b8:1309645965,ae7c928104804b10ade39fef231d9a32:-1314549654,ee0996895c404b1090f1881049bcf66d:1309645965,a974520160404b10ac39f8af2255565f:-1314549654,0f229e8927004b10f913b5adf2f8c3f0:1309645965,9bbe8e810f004b10454366d097d36ef5:-1314549654,012a3105634c0b10b20b4883bb465e20:1309645965,0495b549e40c0b10fb18f84be6e3e8e0:-1314549654,ad433505e50c0b104d4f55c5bde55236:1309645965,b84bed4149c80b104dcf6a028fb07cec:-1314549654,d2f82d0dd5880b1030146d2d80513f89:1309645965,57ae914535480b10194e767e788b4ace:-1314549654,af3bd54d98080b10b7d8d3e0903f3166:1309645965,3e3391c999c40b10a9bb3b1e7adfe506:-1314549654,3c1ac1857e840b10093a1606bce4f338:1309645965,2a7534c5ddc00b10917dbb4d6961facd:-1314549654,21ae28c5fb800b10fd60fdd095210d35:1309645965,db2b2ccda1400b100173dcdfa234b85b:-1314549654,abb7ecc59e400b107c02719bf0f5f2e6:1309645965,a87d9c8d14ccc7102946d83e9996a04b:-1314549654,8d9694cd8c8cc710c9cfdd9b3fad5fb6:1309645965,045cccc5bb4cc71049e3719fd20a6923:-1314549654,966580098f0cc7108358169f12c68934:1309645965,32f14401fe0cc7101ca09de7ac0997e8:-1314549654,768ebb3852c8c710ce0c3852442c0a2e:1309645965,0b3c2fbcfd08c710c608f4597bc5a06d:-1314549654,24f96b781d08c7101df532158169b1e1:1309645965,91af17b0f6c4c7100811c071f2aa7d96:-1314549654,830bc3b04204c710349a2761b6cee3dd:1309645965,94e9ba38d040c7108f3898fdba9840f3:-1314549654,b80372381400c7107603507f4cb92191:1309645965,726e9a34324c87104445c66a39de068f:-1314549654,53871e34870c87107f2593326ce0cb3e:1309645965,261c0238c388871042010d548ae42e15:-1314549654,4ad98eb0ce8887105ec482e079ae1268:1309645965,735e71b458088710194b482b44c1647e:-1314549654,591c3d30b6088710a51cb0c0be0189e8:1309645965,893de97c3944871093eed05b8bb6e9a2:-1314549654,b27769bc6f0487101b2c4277d0759fa6:1309645965,ae0c553494c08710b7ed39b20e76f3c4:-1314549654,ccc9d1fcf980871023b811d9b84b6369:1309645965,7090c53486cc471099fedd1eed489603:-1314549654,d24ef0fc328c47109dcb7cc0afdbff4b:1309645965,a06f9838c08847104f2acd4c3abdb93b:-1314549654,95881c38f7484710e159275560621eae:1309645965,5b0d7becd90447108fada4c9ef1bae39:-1314549654,4fb97fe4bc044710ea3b4306adafb694:1309645965,45782bacb6404710b57ae2fe2bea9428:-1314549654,1d05e76479404710bdbe6de31c809501:1309645965,6db21768398c0710d7ccf34874f6dcd8:-1314549654,2f16cfe8590c0710acc5cbd70c98082d:1309645965,5c4fb2e8b0c80710cfe31f754a5ad654:-1314549654,03db7aa08dc8071018df30e4c04d4c55:1309645965,f3c3b620e5880710f81217b1731b7bde:-1314549654,598136e85e480710e8b4b39b86097591:1309645965,9ec3622c29c407100f08e5cf29e9053d:-1314549654,7a5022241dc40710e0fa3d0628c811be:1309645965,3c58862c2ec00710bc1c1e39553706f6:-1314549654,dfe4c2249dc0071080b74ff2aaf50df9:1309645965,80500a689080071094c366f4fb76468a:-1314549654,e90ebde0a18007107b52ea691bea86de:1309645965,7006392004400710ee5560a0fae87133:-1314549654,5ab37d286900071068dbc7e00258c54e:1309645965,371f51a4f64cc3107190c33a38120985:-1314549654,18bb19e8dc88c310d6a9200c5ad9f9b6:1309645965,1cdc8d243608c310281cec1591b92cc4:-1314549654,218a41aca1c4c3101af27e1586c63215:1309645965,30f509e03ec4c310f7d01d7cadc7f3db:-1314549654,12a305ac6c84c310982fe683380ba15d:1309645965,2372b82041c0c310121fc5a9072788df:-1314549654,00abac203a80c31073fbf4402ee04e7f:1309645965,7c51e0280900c31053a991a308e020a1:-1314549654,1d7a9428facc8310c493e90e43392d11:1309645965,f507542039cc83102168b7f6f2521f61:-1314549654,d2205c20ff8c83100f89fc21bd4b4158:1309645965,2128c4ac000c8310d3c6ee3f63005b6e:-1314549654,cfd50468940c8310c8defe632b986ea5:1309645965,deddff945dc88310c29e86ab99d3522b:-1314549654,4828ff58178883104570b3f245701d99:1309645965,97837bdc0048831093cac15fe85cce2a:-1314549654,f841f798c8488310ab1b58698f528338:1309645965,4d6aab98e5088310ab3f1071997bf687:-1314549654,7df6af902c08831027b5fa313f62832e:1309645965,eeac93d8c5848310d7d53072c8f4ed58:-1314549654,8bc55bd8d5448310d95f6eee6a5db3e0:1309645965,07525bd040448310d2f1a91d03c972dd:-1314549654,dfeecbd842048310bea4ee080ea84275:1309645965,f39cb290d08083109c501599c0fb89c7:-1314549654,11e6fe14344083102339632fa3ea316e:1309645965,2d73f25ca0008310e8d933b72d0aa972:-1314549654,3100f654d800831005e96e76215e5187:1309645965,9e9cea5c00cc431054ad5c1cbd65a1d0:-1314549654,ae29ea5423cc4310a7d4b956fe5b3ab4:1309645965,b6b5ee5c208c43107b99547360f40952:-1314549654,2b6bd694d44c431011d58c7644c22828:1309645965,7e635614700c4310810268f6ddf7bfe6:-1314549654,d821de9c08c843102e98c790dee5197f:1309645965,d1d60694bc8843101162f8cfcc1f3f4f:-1314549654,40730a9c604843104d3f1d43149c406a:1309645965,29ff39941a484310228311b46a0fb717:-1314549654,5619fd94b808431054be347f787dcfcb:1309645965,6111f9149ac44310b7989c2b8ed3a983:-1314549654,c7ce29dcbd8443101789c64748b8d8d2:1309645965,3811a5104c4443103198f425ee367009:-1314549654,f4c615d4f6c04310379532f4bcdd7051:1309645965,a153d5dcb9804310d50140f20f66cb2c:-1314549654,4609cdd4c94043104d115696e67b4f9f:1309645965,8a2af454d1cc0310d2c4dd19e0c74a79:-1314549654,3b643018ff8c031077ad491b879343ed:1309645965,f712a0d842c803106ae35bf41c5426a9:-1314549654,69df585404c803109bf5694006d8884c:1309645965,1a85545ccd480310728b7fc1ab55b406:-1314549654,ddbec81cdb0803109431c903536b04e0:1309645965,af540c1499c40310bb5df8105d6b923c:-1314549654,88f0c0d833840310fe6271ab27823f03:1309645965,a4c72b00b7c003105dd95f922704bb2e:-1314549654,92026f8067800310967fab8ba824c5a6:1309645965,b1558a0ca4c48f10b1527b2c6b5a6012:-1314549654,9e7eb14cde848f10571f1984a08b82bb:1309645965,f503f1c06a448f1034bb4e4fa297f0ed:-1314549654,53b0b18c3f048f10ffe1399fba33041b:1309645965,1a2c69c0f6048f102cc4d2e33455650a:-1314549654,12e9a58c45c08f1030199c6eb3d1e72a:1309645965,9c76a984d6c08f10413b4cddfed74bd9:-1314549654,600321cc1a808f10faab17c0ca9683a3:1309645965,51b819c496408f10958881eab9b5b363:-1314549654,69455dccc3008f105cd5d692250cc260:1309645965,966e45cc03cc4f10d486de806ebd8475:-1314549654,d2fa49c4fbcc4f107edb51d0926aefa9:1309645965,a1660d0cf48c4f102ba24082064bcdd4:-1314549654,07a0018cf84c4f1062f896cb185cce5c:1309645965,ee3530c0fa0c4f106a4aea77e5c22856:-1314549654,4e5e588ce9084f1005c5c5da52cf49e7:1309645965,47ea9884c4084f101cb48a5cfa65cdf2:-1314549654,2a779c8c16c44f10f97ac99473ccbb39:1309645965,b204d0c45ac44f10f7b89f46047e15dd:-1314549654,479018ccfd844f10296d270fd353377b:1309645965,e6c90cccbb444f10efbd1e8340869a14:-1314549654,bb460008d7444f10d58b5c051b79dc75:1309645965,c34efb7711377e10374ffdc3e579f0a6:-1314549654,a40c3b3376377e10a8aa42d2324dcb5b:1309645965,880437bf57b37e10b91647195bf02f46:-1314549654,adb1fb3b2cb37e10ef2ea66236a14d05:1309645965,20ea277b69737e10184be522862238b4:-1314549654,a2f32b7b9a337e100bd205277f40d364:1309645965,ad6fd37f10ff3e105ced0080ad995414:-1314549654,e52d133bc1ff3e10b464f6789dc0a0d2:1309645965,5e15937711bf3e10ba697c8a2dbf45ab:-1314549654,e0fb8fffc03f3e10048b534d227bd406:1309645965,f8880bf7e43f3e105f2c1fdb9cefdaeb:-1314549654,cd1543bfb9fb3e10d9cd7fe35ea1d6e3:1309645965,58da72b746bb3e10db5211d8068a5acd:-1314549654,2ee3b6379a7b3e10d58272e237444c18:1309645965,92056a7343f73e1050dc31b5fdb81c57:-1314549654,6a5fd23707b73e103b711a1f2fc441ac:1309645965,c9051afbdc373e105246f1f2f1846817:-1314549654,8991d6f3ee373e10032524f5842b9522:1309645965,e52e06bbdaf33e10febc499e722e7df5:-1314549654,75474ebb8cb33e10b7a05d2b3bca049d:1309645965,25db7d3331733e10b4ca2b26226c8dad:-1314549654,0f89f9fba1333e10de04f2a2ba8d5dab:1309645965,ee1ea9734cfffa1053ba2c521d3ed2aa:-1314549654,5468e537b4bffa103d547dfd958a41f7:1309645965,1a718dfb673bfa10bfd4b7ec02ccd96e:-1314549654,62cb7cbfa3f7fa101feaa7fc1e6ae963:1309645965,64e4b4ff42b7fa1092e2764aabd2474b:-1314549654,787174f771b7fa1086c113fb950a708f:1309645965,950ee8ffc277fa102cf4d3106add7a57:-1314549654,9d9a203b8177fa107eb9bf2cc9c8bb3e:1309645965,e406e47f5737fa10aa05a2df1c09a144:-1314549654,f850e833b637fa105ec8bccab89cf06f:1309645965,82619cbf9d73fa10ee0de8bbd6cd7c7b:-1314549654,cc4880bb3c33fa1008187113e993224d:1309645965,d4f577ef907fba10ce763626ae0edf26:-1314549654,0630f7a3267fba10e8ea223f5fdf2fc1:1309645965,56cce7ab693fba1057fe4bde4146186f:-1314549654,e259aba3673fba1048e5c0c7022189fd:1309645965,a6ed1f2bd4bbba10b865749f7738f6a2:-1314549654,1cc4dba32f7bba108d1b2c9dd78fd166:1309645965,0bb47e6bd237ba10fbaa006de2038840:-1314549654,8362fa27cb37ba10bffdd90f8bbe1775:1309645965,b683aea369b3ba104b110335985e8aeb:-1314549654,5583da2f3dff7a109a8bdc3b4618bd5f:1309645965,c5a4c6aba37f7a10f67b6ca22c37ce15:-1314549654,47524667097f7a1061a3c68a15bbc070:1309645965,3f08716f74fb7a10307430ee2bc9013a:-1314549654,ff9475674ffb7a105e7a9da98b48fdc6:1309645965,5973a92f363b7a102081d406050d5c38:-1314549654,69006927593b7a10fd564de7e0ada3c5:1309645965,5eb5d16ff1b77a10800b9ee879868bfd:-1314549654,3e429567bcb77a1055354a214b71d58f:1309645965,5f6b4d674a777a10f7d2e7c5f5ec9c87:-1314549654,17f70d6f71377a10eaf3aa0e812b61f5:1309645965,e78441679c377a10df9f2abf6b346805:-1314549654,a4d67c67e6b37a107bfccc3e1f38019d:1309645965,0563fc6ff4737a10e451113529d35d8a:-1314549654,2d8c24afb1337a10728376aefb44c6c6:1309645965,d5ad582fccbf3a104170c07e07e97629:-1314549654,875b54e7c5bf3a10d35c66233b517676:1309645965,57e758ef8b7f3a10879bb07ff836216b:-1314549654,603a0823443f3a108539385637e53c00:1309645965,33bef397f1bb3a1046f86007f1a6b0f1:-1314549654,9622f75bb53b3a1076106e65c3bd171b:1309645965,9d9d63dfd7f73a1055578aa54fbf5e62:-1314549654,324beb5bd9f73a10e1cd79d945e9e3bf:1309645965,0fd76b53bbf73a1011541ee10be5f984:-1314549654,53646f5beab73a107ef7ff2514dec1b0:1309645965,12df5bdf4e773a106b3d03036a5af261:-1314549654,4c9dd79ba6773a10f14fba63dac99431:1309645965,ecb6db9b2a373a103568abd63bf626ea:-1314549654,b043df9370373a10b38fc638318edef1:1309645965,656c47d334f33a1013663bdab373cf58:-1314549654,a5f80bdbd5b33a10fb3777f6297920d2:1309645965,f5854fd385b33a10f647527ea8668d4e:-1314549654,1aaeb21784733a10dcb28ac3780f2be4:1309645965,53543e1fcefff610c9e20ddf7ef023ae:-1314549654,041ae217b5bff610b67c75754649910c:1309645965,54a62a1faf7ff610f72abc4781a76356:-1314549654,bccf1e1f633ff610cfd2b191612c13fa:1309645965,88c71a9bbefbf6104e74b9a250cf59be:-1314549654,2975965721fbf610b5220a6aa57c417c:1309645965,662b469f257bf610ecf6ff58cb248698:-1314549654,eab74697667bf6102f81df1f265134a7:1309645965,fff9f1d712f7f6109b68848aab8f57dc:-1314549654,9023f5d72cb7f6104ccb29d8da60da5f:1309645965,771b2557ac77f6102323678b6d62a352:-1314549654,c5d821134d77f61055bee2884d05e843:1309645965,c8446d57f237f610bfa01cdffbe78f0e:-1314549654,25f1e913c537f610416e58dd944fce3a:1309645965,ba34995370b3f6107187a20f1a394101:-1314549654,df5d859ff333f610b08a3ae64b2fceea:1309645965,b4aff89f89bfb61005c5a96e7cd2ed93:-1314549654,303c30d744bfb610b04c705208633ebe:1309645965,e2d15893e83bb61009ebed28a698df46:-1314549654,e42cc457b8f7b610e8d3717f9544a5f1:1309645965,a9d1409f1a77b610cd434465144ff989:-1314549654,7d6e33874777b610543bb65c3c8a01c0:1309645965,06a8abc360b3b610e9835610d4ab8d7b:-1314549654,b3e26b87d473b610a75fd0d68afd9c5c:1309645965,1c1c93c71533b61050e0d515b6ec4ab3:-1314549654,30351bc7cdff7610ee00156c6985da1d:1309645965,6cc9874f7b7f7610b6ac66534f603ceb:-1314549654,f177070b607f761090782d1f330fba53:1309645965,8de2038f6e3f7610ea067c3f94b80e1d:-1314549654,722df243393f7610362cccb061e38723:1309645965,042d52c72ef77610fc707d708e03dd03:-1314549654,6dda9e43d7f77610d9e101b93d11a238:1309645965,496f8ec7097776105793f23bfd550e5c:-1314549654,1736c2c3e0377610865984ea88da046c:1309645965,c757714336b37610de0568870c94bd0f:-1314549654,a815fdcb5e7376109cb4b8eb5ffa6051:1309645965,af70b94353737610d67bfa8fce742091:-1314549654,19cae507bd33761066e04bbaab6064f4:1309645965,b557edcb6fff3610f0a3572d2bab8842:-1314549654,18f325c3c8ff3610ab5f909eeb0a70af:1309645965,e978154bff7f361054430ec3180dc8d6:-1314549654,87265107cf7f3610b2392b457010a001:1309645965,3e474583b3fb361032da6d3a57d084c6:-1314549654,6005c14fe0bb3610d06d2bc819aa91a7:1309645965,d6fc688774f73610684aeb449ceb4083:-1314549654,be16a0c740b736109c627b5f6f2cf150:1309645965,e2aa904f83373610c477cff54234ee2c:-1314549654,04689cc7c737361006eeea123817025d:1309645965,c8894ccbf733361068fbe1d9eea37753:-1314549654,5d37c00f7bfff2102aa1b384a45d8268:1309645965,58a208cf30bff210ee6cc707f7dbe6f7:-1314549654,52ec737225bff210e994a7684a6d5b9c:1309645965,d279fb3a327ff2105120e3e05c28e3fb:-1314549654,4f9237b6473ff2109ba652fdbdc4e95e:1309645965,84586f7efbbbf21083d5190384a5612d:-1314549654,d871637e547bf21027ebc4c2a7456ca3:1309645965,840697be1af7f210ff090c3b6775783d:-1314549654,e54017fea2b7f21040e6e18bbb648589:1309645965,e0bb0336beb7f21015b82bcaff018ce4:-1314549654,66f583f64077f210a5eda4bf4ab4abeb:1309645965,b2bb3abe21f3f210d9318e4a1930b182:-1314549654</update_guid_history>
+<update_set display_value=""/>
+<view></view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments></comments>
+<name>sys_script_include_fdb3fa788300c7107e911530ceaad31d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><api_name>global.UpdateSetGitHubExporter</api_name><caller_access/><client_callable>false</client_callable><description/><mobile_callable>false</mobile_callable><name>UpdateSetGitHubExporter</name><sandbox_callable>false</sandbox_callable><script>var UpdateSetGitHubExporter = Class.create();&#13;
+UpdateSetGitHubExporter.prototype = {&#13;
+    initialize: function() {},&#13;
+&#13;
+    exportUpdateSetToGitHub: function(updateSetSysId) {&#13;
+        var response = {&#13;
+            success: false,&#13;
+            message: '',&#13;
+            commit_message: ''&#13;
+        };&#13;
+&#13;
+        try {&#13;
+            var us = new GlideRecord('sys_update_set');&#13;
+            if (!us.get(updateSetSysId)) {&#13;
+                response.message = 'Update set not found';&#13;
+                return response;&#13;
+            }&#13;
+&#13;
+            if ((us.state + '') != 'complete') {&#13;
+                response.message = 'Update set is not complete';&#13;
+                return response;&#13;
+            }&#13;
+&#13;
+            var xmlString = this._buildUpdateSetXml(us);&#13;
+            if (!xmlString) {&#13;
+                response.message = 'XML generation failed';&#13;
+                return response;&#13;
+            }&#13;
+&#13;
+            var safeName = (us.name + '').replace(/[^a-zA-Z0-9_\-]/g, '_');&#13;
+            var filePath = 'updatesets/' + safeName + '_' + gs.nowDate().replace(/-/g, '') + '.xml';&#13;
+            var commitMessage = 'Export update set ' + us.name + ' from ServiceNow';&#13;
+&#13;
+            var gitResult = this._upsertFileToGitHub(filePath, xmlString, commitMessage);&#13;
+            if (!gitResult.success) {&#13;
+                response.message = gitResult.message;&#13;
+                return response;&#13;
+            }&#13;
+&#13;
+            response.success = true;&#13;
+            response.message = 'Export completed';&#13;
+            response.commit_message = commitMessage;&#13;
+            return response;&#13;
+&#13;
+        } catch (e) {&#13;
+            gs.error('UpdateSetGitHubExporter.exportUpdateSetToGitHub error: ' + e.message);&#13;
+            response.message = e.message;&#13;
+            return response;&#13;
+        }&#13;
+    },&#13;
+&#13;
+    _buildUpdateSetXml: function(updateSetGr) {&#13;
+        var xml = [];&#13;
+        var remoteSysId = gs.generateGUID();&#13;
+&#13;
+        xml.push('&lt;?xml version="1.0" encoding="UTF-8"?&gt;');&#13;
+        xml.push('&lt;unload unload_date="' + this._escapeXml(gs.nowDateTime()) + '"&gt;');&#13;
+&#13;
+        // Build sys_remote_update_set block&#13;
+        xml.push('&lt;sys_remote_update_set action="INSERT_OR_UPDATE"&gt;');&#13;
+        xml.push('&lt;application display_value="Global"&gt;global&lt;/application&gt;');&#13;
+        xml.push('&lt;application_name&gt;' + this._escapeXml(this._getValue(updateSetGr, 'application_name')) + '&lt;/application_name&gt;');&#13;
+        xml.push('&lt;application_scope&gt;' + this._escapeXml(this._getValue(updateSetGr, 'application')) + '&lt;/application_scope&gt;');&#13;
+        xml.push('&lt;application_version&gt;' + this._escapeXml(this._getValue(updateSetGr, 'application_version')) + '&lt;/application_version&gt;');&#13;
+        xml.push('&lt;collisions/&gt;');&#13;
+        xml.push('&lt;commit_date/&gt;');&#13;
+        xml.push('&lt;deleted/&gt;');&#13;
+        xml.push('&lt;description&gt;' + this._escapeXml(this._getValue(updateSetGr, 'description')) + '&lt;/description&gt;');&#13;
+        xml.push('&lt;inserted/&gt;');&#13;
+        xml.push('&lt;name&gt;' + this._escapeXml(this._getValue(updateSetGr, 'name')) + '&lt;/name&gt;');&#13;
+        xml.push('&lt;origin_sys_id/&gt;');&#13;
+        xml.push('&lt;parent display_value=""/&gt;');&#13;
+        xml.push('&lt;release_date/&gt;');&#13;
+        xml.push('&lt;remote_base_update_set display_value=""/&gt;');&#13;
+        xml.push('&lt;remote_parent_id/&gt;');&#13;
+        xml.push('&lt;remote_sys_id&gt;' + this._escapeXml(updateSetGr.getUniqueValue()) + '&lt;/remote_sys_id&gt;');&#13;
+        xml.push('&lt;state&gt;loaded&lt;/state&gt;');&#13;
+        xml.push('&lt;summary/&gt;');&#13;
+        xml.push('&lt;sys_class_name&gt;sys_remote_update_set&lt;/sys_class_name&gt;');&#13;
+        xml.push('&lt;sys_created_by&gt;' + this._escapeXml(gs.getUserName()) + '&lt;/sys_created_by&gt;');&#13;
+        xml.push('&lt;sys_created_on&gt;' + this._escapeXml(gs.nowDateTime()) + '&lt;/sys_created_on&gt;');&#13;
+        xml.push('&lt;sys_id&gt;' + this._escapeXml(remoteSysId) + '&lt;/sys_id&gt;');&#13;
+        xml.push('&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;');&#13;
+        xml.push('&lt;sys_updated_by&gt;' + this._escapeXml(gs.getUserName()) + '&lt;/sys_updated_by&gt;');&#13;
+        xml.push('&lt;sys_updated_on&gt;' + this._escapeXml(gs.nowDateTime()) + '&lt;/sys_updated_on&gt;');&#13;
+        xml.push('&lt;update_set display_value=""/&gt;');&#13;
+        xml.push('&lt;update_source display_value=""/&gt;');&#13;
+        xml.push('&lt;updated/&gt;');&#13;
+        xml.push('&lt;/sys_remote_update_set&gt;');&#13;
+&#13;
+        // Build sys_update_xml blocks&#13;
+        var doc = new GlideRecord('sys_update_xml');&#13;
+        doc.addQuery('update_set', updateSetGr.getUniqueValue());&#13;
+        doc.orderBy('name');&#13;
+        doc.query();&#13;
+&#13;
+        var count = 0;&#13;
+        while (doc.next()) {&#13;
+            xml.push('&lt;sys_update_xml action="INSERT_OR_UPDATE"&gt;');&#13;
+            xml.push('&lt;action&gt;' + this._escapeXml(this._getValue(doc, 'action')) + '&lt;/action&gt;');&#13;
+            xml.push('&lt;application display_value="Global"&gt;global&lt;/application&gt;');&#13;
+            xml.push('&lt;category&gt;' + this._escapeXml(this._getValue(doc, 'category')) + '&lt;/category&gt;');&#13;
+            xml.push('&lt;comments&gt;' + this._escapeXml(this._getValue(doc, 'comments')) + '&lt;/comments&gt;');&#13;
+            xml.push('&lt;name&gt;' + this._escapeXml(this._getValue(doc, 'name')) + '&lt;/name&gt;');&#13;
+            xml.push('&lt;payload&gt;&lt;![CDATA[' + this._sanitizeForCdata(this._getValue(doc, 'payload')) + ']]&gt;&lt;/payload&gt;');&#13;
+            xml.push('&lt;payload_hash&gt;' + this._escapeXml(this._getValue(doc, 'payload_hash')) + '&lt;/payload_hash&gt;');&#13;
+            xml.push('&lt;remote_update_set display_value="' + this._escapeXml(this._getValue(updateSetGr, 'name')) + '"&gt;' + this._escapeXml(remoteSysId) + '&lt;/remote_update_set&gt;');&#13;
+            xml.push('&lt;replace_on_upgrade&gt;' + this._escapeXml(this._getValue(doc, 'replace_on_upgrade')) + '&lt;/replace_on_upgrade&gt;');&#13;
+            xml.push('&lt;sys_created_by&gt;' + this._escapeXml(this._getValue(doc, 'sys_created_by')) + '&lt;/sys_created_by&gt;');&#13;
+            xml.push('&lt;sys_created_on&gt;' + this._escapeXml(this._getValue(doc, 'sys_created_on')) + '&lt;/sys_created_on&gt;');&#13;
+            xml.push('&lt;sys_id&gt;' + this._escapeXml(this._getValue(doc, 'sys_id')) + '&lt;/sys_id&gt;');&#13;
+            xml.push('&lt;sys_mod_count&gt;' + this._escapeXml(this._getValue(doc, 'sys_mod_count')) + '&lt;/sys_mod_count&gt;');&#13;
+            xml.push('&lt;sys_recorded_at&gt;' + this._escapeXml(this._getValue(doc, 'sys_recorded_at')) + '&lt;/sys_recorded_at&gt;');&#13;
+            xml.push('&lt;sys_updated_by&gt;' + this._escapeXml(this._getValue(doc, 'sys_updated_by')) + '&lt;/sys_updated_by&gt;');&#13;
+            xml.push('&lt;sys_updated_on&gt;' + this._escapeXml(this._getValue(doc, 'sys_updated_on')) + '&lt;/sys_updated_on&gt;');&#13;
+            xml.push('&lt;table&gt;' + this._escapeXml(this._getValue(doc, 'table')) + '&lt;/table&gt;');&#13;
+            xml.push('&lt;target_name&gt;' + this._escapeXml(this._getValue(doc, 'target_name')) + '&lt;/target_name&gt;');&#13;
+            xml.push('&lt;type&gt;' + this._escapeXml(this._getValue(doc, 'type')) + '&lt;/type&gt;');&#13;
+            xml.push('&lt;update_domain&gt;' + this._escapeXml(this._getValue(doc, 'update_domain')) + '&lt;/update_domain&gt;');&#13;
+            xml.push('&lt;update_guid&gt;' + this._escapeXml(this._getValue(doc, 'update_guid')) + '&lt;/update_guid&gt;');&#13;
+            xml.push('&lt;update_guid_history&gt;' + this._escapeXml(this._getValue(doc, 'update_guid_history')) + '&lt;/update_guid_history&gt;');&#13;
+            xml.push('&lt;update_set display_value=""/&gt;');&#13;
+            xml.push('&lt;view&gt;' + this._escapeXml(this._getValue(doc, 'view')) + '&lt;/view&gt;');&#13;
+            xml.push('&lt;/sys_update_xml&gt;');&#13;
+            count++;&#13;
+        }&#13;
+&#13;
+        xml.push('&lt;/unload&gt;');&#13;
+&#13;
+        if (count === 0) {&#13;
+            gs.warn('No sys_update_xml records found for update set: ' + updateSetGr.getDisplayValue());&#13;
+        }&#13;
+&#13;
+        return xml.join('\n');&#13;
+    },&#13;
+&#13;
+    _upsertFileToGitHub: function(filePath, xmlString, commitMessage) {&#13;
+        var result = {&#13;
+            success: false,&#13;
+            message: ''&#13;
+        };&#13;
+&#13;
+        var owner = gs.getProperty('x_your_scope.github.owner');&#13;
+        var repo = gs.getProperty('x_your_scope.github.repo');&#13;
+        var branch = gs.getProperty('x_your_scope.github.branch', 'main');&#13;
+        var token = gs.getProperty('x_your_scope.github.token');&#13;
+&#13;
+        if (!owner || !repo || !token) {&#13;
+            result.message = 'GitHub owner/repo/token properties are missing';&#13;
+            return result;&#13;
+        }&#13;
+&#13;
+        var encoded = GlideStringUtil.base64Encode(xmlString);&#13;
+        var sha = this._getExistingFileSha(owner, repo, filePath, branch);&#13;
+&#13;
+        var body = {&#13;
+            message: commitMessage,&#13;
+            content: encoded,&#13;
+            branch: branch&#13;
+        };&#13;
+&#13;
+        if (sha) {&#13;
+            body.sha = sha;&#13;
+        }&#13;
+&#13;
+        var rm = new sn_ws.RESTMessageV2();&#13;
+        rm.setHttpMethod('put');&#13;
+        rm.setEndpoint('https://api.github.com/repos/' + owner + '/' + repo + '/contents/' + filePath);&#13;
+        rm.setRequestHeader('Accept', 'application/vnd.github+json');&#13;
+        rm.setRequestHeader('X-GitHub-Api-Version', '2022-11-28');&#13;
+        rm.setRequestHeader('Content-Type', 'application/json');&#13;
+        rm.setRequestHeader('Authorization', 'Bearer ' + token);&#13;
+        rm.setRequestBody(JSON.stringify(body));&#13;
+&#13;
+        var res = rm.execute();&#13;
+        var code = res.getStatusCode();&#13;
+        var resBody = res.getBody();&#13;
+&#13;
+        gs.info('GitHub PUT response code: ' + code);&#13;
+        gs.info('GitHub PUT response body: ' + resBody);&#13;
+&#13;
+        if (code == 200 || code == 201) {&#13;
+            result.success = true;&#13;
+            return result;&#13;
+        }&#13;
+&#13;
+        result.message = 'GitHub API failed. HTTP ' + code + ' Body: ' + resBody;&#13;
+        return result;&#13;
+    },&#13;
+&#13;
+    _getExistingFileSha: function(owner, repo, filePath, branch) {&#13;
+        try {&#13;
+            var rm = new sn_ws.RESTMessageV2();&#13;
+            rm.setHttpMethod('get');&#13;
+            rm.setEndpoint('https://api.github.com/repos/' + owner + '/' + repo + '/contents/' + filePath + '?ref=' + branch);&#13;
+            rm.setRequestHeader('Accept', 'application/vnd.github+json');&#13;
+            rm.setRequestHeader('X-GitHub-Api-Version', '2022-11-28');&#13;
+            rm.setRequestHeader('Authorization', 'Bearer ' + gs.getProperty('x_your_scope.github.token'));&#13;
+&#13;
+            var res = rm.execute();&#13;
+            var code = res.getStatusCode();&#13;
+&#13;
+            if (code == 200) {&#13;
+                var obj = JSON.parse(res.getBody());&#13;
+                return obj.sha || '';&#13;
+            }&#13;
+            return '';&#13;
+        } catch (e) {&#13;
+            gs.warn('Unable to fetch existing file sha: ' + e.message);&#13;
+            return '';&#13;
+        }&#13;
+    },&#13;
+&#13;
+    _getValue: function(gr, fieldName) {&#13;
+        if (!gr.isValidField(fieldName))&#13;
+            return '';&#13;
+        return gr.getValue(fieldName) || '';&#13;
+    },&#13;
+&#13;
+    _escapeXml: function(value) {&#13;
+        value = (value + '');&#13;
+        return value&#13;
+            .replace(/&amp;/g, '&amp;amp;')&#13;
+            .replace(/&lt;/g, '&amp;lt;')&#13;
+            .replace(/&gt;/g, '&amp;gt;')&#13;
+            .replace(/"/g, '&amp;quot;')&#13;
+            .replace(/'/g, '&amp;apos;');&#13;
+    },&#13;
+&#13;
+    _sanitizeForCdata: function(value) {&#13;
+        value = (value + '');&#13;
+        return value.replace(/\]\]&gt;/g, ']]]]&gt;&lt;![CDATA[&gt;');&#13;
+    },&#13;
+&#13;
+    type: 'UpdateSetGitHubExporter'&#13;
+};</script><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-02 10:13:49</sys_created_on><sys_id>fdb3fa788300c7107e911530ceaad31d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>UpdateSetGitHubExporter</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_script_include_fdb3fa788300c7107e911530ceaad31d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-07 11:43:55</sys_updated_on></sys_script_include><sys_es_latest_script action="INSERT_OR_UPDATE"><id>fdb3fa788300c7107e911530ceaad31d</id><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-02 10:13:48</sys_created_on><sys_id>7ee3fe788300c7107e911530ceaad3cd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-02 10:13:48</sys_updated_on><table>sys_script_include</table><use_es_latest>true</use_es_latest></sys_es_latest_script></record_update>]]></payload>
+<payload_hash>-1783124047</payload_hash>
+<remote_update_set display_value="Mid Server">0079f4a683004b107e911530ceaad3f3</remote_update_set>
+<replace_on_upgrade>0</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-04-07 11:43:55</sys_created_on>
+<sys_id>ab78f02683004b107e911530ceaad35f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19d67c19f4a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-04-07 11:43:55</sys_updated_on>
+<table></table>
+<target_name>UpdateSetGitHubExporter</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>2778f0268c004b10d57d4c37b7c13c5f</update_guid>
+<update_guid_history>2778f0268c004b10d57d4c37b7c13c5f:-1783124047,32e68ff4f1c0c71028d7dbb62fc981bc:1684839149,47e3b6b89700c710d5dd3fd771673927:1612846507</update_guid_history>
+<update_set display_value=""/>
+<view></view>
+</sys_update_xml>
+</unload>
